@@ -20,7 +20,10 @@ public class FirstHomeWork {
 
             System.out.print("Please enter second Digit: ");
             secondDigit = scanner.nextInt();
-
+            System.out.print("Please enter second Digit: ");
+            secondDigit = scanner.nextInt();            System.out.print("Please enter second Digit: ");
+            secondDigit = scanner.nextInt();            System.out.print("Please enter second Digit: ");
+            secondDigit = scanner.nextInt();
             switch (mathAction) {
                 case ("+"):
                     System.out.println("Result: " + firstDigit + " " + mathAction + " " + secondDigit + " = " + (firstDigit + secondDigit));
