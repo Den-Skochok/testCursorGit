@@ -13,10 +13,6 @@ public class FirstHomeWork {
         do {
             System.out.print("Please enter first Digit: ");
             firstDigit = scanner.nextInt();
-//            try {
-//                System.out.print("Please enter first Digit: ");
-//                firstDigit = scanner.nextInt();
-//
 
 
 
