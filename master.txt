@@ -13,14 +13,7 @@ public class FirstHomeWork {
         do {
             System.out.print("Please enter first Digit: ");
             firstDigit = scanner.nextInt();
-//            try {
-//                System.out.print("Please enter first Digit: ");
-//                firstDigit = scanner.nextInt();
-//
-//            } catch (Exception e) {
-//                System.out.println(e);
-//                firstDigit = scanner.nextInt();
-//            }
+
 
             System.out.print("Please enter action +, -, *, / : ");
             mathAction = scanner.next();
